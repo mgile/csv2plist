@@ -14,9 +14,9 @@ csv2plist was written by [Michael Gile](http://mgile.com) ([@mgile](http://twitt
 
 License
 -------
-	The MIT License
+   The MIT License
 
-	Copyright &copy; 2011 Michael Gile
+   Copyright &copy; 2011 Michael Gile
 	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
